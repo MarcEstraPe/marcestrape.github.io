@@ -411,13 +411,13 @@ ul.social li a {
 }
 
 ul.social li a:before {
-    background-color: #444;
+    background-color: #666;
     background-image: url('images/bg.png'), -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
     background-image: url('images/bg.png'), -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
     background-image: url('images/bg.png'), -o-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
     background-image: url('images/bg.png'), -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
     background-image: url('images/bg.png'), linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
-    border-radius: 6px;
+    border-radius: 3px;
     box-shadow: inset 0px 0px 0px 1px #282828, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.1);
     color: #2E2E2E !important;
     display: block;
@@ -439,6 +439,10 @@ ul.social li a:before {
 
 ul.social li a.fa-twitter {
     background-color: #2DAAE4;
+}
+
+ul.social li a.fa-envelope {
+    background-color: #e42d3e;
 }
 
 ul.social li a.fa-facebook {
