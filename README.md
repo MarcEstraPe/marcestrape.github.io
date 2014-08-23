@@ -1,4 +1,2 @@
-Marc Estrada Petrus (marcestradapetrus.github.io)
-===========================
-
+###Marc Estrada Petrus
 Personal Site
