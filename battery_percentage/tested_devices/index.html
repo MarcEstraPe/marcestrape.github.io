@@ -48,6 +48,14 @@
         ga('send', 'pageview');
 
     </script>
+	
+	<script type=’text/javascript’>
+		var blocklink = ['http://darodar.com', 'http://econom.co', 'http://ilovevitaly.com'];
+		for (var b = blocklink.length; b–;) {
+			if (document.referrer.match(blocklink[b]))
+				window.location = "http://google.com/";
+		} 
+	</script>
 </head>
 <body>
 
