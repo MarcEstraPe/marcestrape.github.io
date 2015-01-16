@@ -1,10 +1,12 @@
 var blocklink = [
     'http://darodar.com',
+    'http://forum.topic54786022.darodar.com',
     'http://econom.co',
     'http://ilovevitaly.com',
     'http://ilovevitaly.co',
     'http://priceg.com',
-    'http://blackhatworth.com'
+    'http://blackhatworth.com',
+    'http://hulfingtonpost.com'
 ];
 
 function checkSpamBots() {
