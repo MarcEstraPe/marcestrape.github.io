@@ -6,7 +6,8 @@ var blocklink = [
     'http://ilovevitaly.co',
     'http://priceg.com',
     'http://blackhatworth.com',
-    'http://hulfingtonpost.com'
+    'http://hulfingtonpost.com',
+    'http://bestwebsitesawards.com'
 ];
 
 function checkSpamBots() {
