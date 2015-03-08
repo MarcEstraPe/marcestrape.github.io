@@ -7,7 +7,9 @@ var blocklink = [
     'http://priceg.com',
     'http://blackhatworth.com',
     'http://hulfingtonpost.com',
-    'http://bestwebsitesawards.com'
+    'http://bestwebsitesawards.com',
+    'http://humanorightswatch.org',
+    'http://o-o-6-o-o.com'
 ];
 
 function checkSpamBots() {
