@@ -9,7 +9,8 @@ var blocklink = [
     'http://hulfingtonpost.com',
     'http://bestwebsitesawards.com',
     'http://humanorightswatch.org',
-    'http://o-o-6-o-o.com'
+    'http://o-o-6-o-o.com',
+    'http://s.click.aliexpress.com'
 ];
 
 function checkSpamBots() {
